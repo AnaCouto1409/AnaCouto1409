@@ -11,6 +11,13 @@ Essas são minhas skills até o momento:
 <br>HTML5 - Intermediário
 <img align="left" width="40" height="40" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png"><br>
 <br>CSS3 - Intermediário
+<div align="center">
+  <a href="https://github.com/AnaCouto1409">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaCouto1409&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCouto1409ini&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+
 <img align="left" width="40" height="40" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png"><br>
 <br>JavasCript - Básico 
 <img align="left" width="40" height="40" src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png"><br>
