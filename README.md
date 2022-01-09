@@ -14,7 +14,7 @@ Essas são minhas skills até o momento:
 <div align="center">
   <a href="https://github.com/AnaCouto1409">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaCouto1409&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCouto1409ini&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ini&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
