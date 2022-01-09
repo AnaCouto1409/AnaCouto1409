@@ -1,6 +1,6 @@
 ### Hi eu sou Ana Carolina Ribeiro da Silva Couto 👋
 
-<!--
+
 **AnaCouto1409/AnaCouto1409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Sou estudante na Digital House Brasil. 👨🏾‍🎓
@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns🉑 ela
 - ⚡ Fun fact: working
--->
+
