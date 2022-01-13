@@ -11,9 +11,12 @@ Essas são minhas skills até o momento:
 <br>HTML5 - Intermediário
 <img align="left" width="40" height="40" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png"><br>
 <br>CSS3 - Intermediário
+
+
+
 <div align="center">
   <a href="https://github.com/AnaCouto1409">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AnaCouto1409&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="280em" src="https://github-readme-stats.vercel.app/api?username=AnaCouto1409&show_icons=false&theme=pink&include_all_commits=true&count_private=true"/>
 </div>
 
 
