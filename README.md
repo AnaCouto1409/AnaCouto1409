@@ -5,13 +5,7 @@
 
 Sou estudante na Digital House Brasil. 👨🏾‍🎓
 <br>
-Curso: Certified Tech Developer -  Desenvolvimento WEB 👨🏾‍💻
-
-Essas são minhas skills até o momento:
-<br>HTML5 - Intermediário
-<img align="left" width="40" height="40" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png"><br>
-<br>CSS3 - Intermediário
-
+Curso: Certified Tech Developer -  Desenvolvimento WEB 👨🏾
 
 
 <div align="center">
@@ -19,7 +13,10 @@ Essas são minhas skills até o momento:
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AnaCouto1409&show_icons=true&theme=pink&include_all_commits=true&count_private=true"/>
 </div>
 
-
+Essas são minhas skills até o momento:
+<br>HTML5 - Intermediário
+<img align="left" width="40" height="40" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png"><br>
+<br>CSS3 - Intermediário
 <img align="left" width="40" height="40" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png"><br>
 <br>JavasCript - Básico 
 <img align="left" width="40" height="40" src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png"><br>
