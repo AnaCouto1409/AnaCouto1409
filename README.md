@@ -3,7 +3,7 @@
 
 **AnaCouto1409/AnaCouto1409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Sou estudante na Digital House Brasil. 👨🏾‍🎓
+Sou estudante na Digital House Brasil  e Resilia👨🏾‍🎓
 <br>
 Curso: Certified Tech Developer -  Desenvolvimento WEB 👨🏾
 
