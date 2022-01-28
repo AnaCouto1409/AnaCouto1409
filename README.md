@@ -20,7 +20,7 @@ Essas são minhas skills até o momento:
 <img align="left" width="40" height="40" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png"><br>
 <br>JavasCript - Básico 
 <img align="left" width="40" height="40" src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png"><br>
-<br>Python - Iniciante
+<br>Python - Básico
 <img align="left" width="60" height="40" src="https://img2.gratispng.com/20180320/fkq/kisspng-angle-text-symbol-brand-other-python-5ab0c09b32b4d1.7494578715215330832077.jpg"><br>
 <br>GIT/GitHub - Básico
 <img align="left" width="40" height="40" src="https://www.freepnglogos.com/uploads/512x512-logo/512x512-transparent-logo-github-logo-24.png"><br>
