@@ -10,8 +10,8 @@ Curso: Certified Tech Developer -  Desenvolvimento WEB 👨🏾
 
 <div align="center">
   <a href="https://github.com/AnaCouto1409">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=AnaCouto1409&show_icons=true&theme=pink&include_all_commits=true&count_private=true"/>
-   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCouto1409&layout=compact&langs_count=7&theme=light"/> 
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=AnaCouto1409&show_icons=true&theme=pink&include_all_commits=true&count_private=true"/>
+   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCouto1409&layout=compact&langs_count=7&theme=light"/> 
 </div>
 
 Essas são minhas skills até o momento:
