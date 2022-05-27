@@ -29,7 +29,7 @@ Essas são minhas skills até o momento:
 <img align="left" width="40" height="40" src="https://user-images.githubusercontent.com/37783914/134197235-9e1f72e8-728d-4a01-ad0b-daa2926dc06d.png"><br>
 <br>Lógica de Programação - Iniciante
 <img align="left" width="60" height="40" src="https://img2.gratispng.com/20180529/hwx/kisspng-software-framework-network-performance-software-de-mechanical-gear-5b0d6932cb66e4.2933447315276055548331.jpg"><br>
-<br>Banco de dados - Iniciante
+<br>Banco de dados - Básico
 <img align="left" width="40" height="40" src="https://img2.gratispng.com/20190212/hwz/kisspng-cloud-database-database-server-flat-file-oracle-da-data-base-server-svg-png-icon-free-download-5229-5c626aab2098a8.3594180915499537071335.jpg"><br>
 
 NerdPower 🖖🏾 
