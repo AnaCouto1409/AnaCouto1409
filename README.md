@@ -23,11 +23,11 @@ Essas são minhas skills até o momento:
 <img align="left" width="40" height="40" src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png"><br>
 <br>Python - Iniciante
 <img align="left" width="60" height="40" src="https://img2.gratispng.com/20180320/fkq/kisspng-angle-text-symbol-brand-other-python-5ab0c09b32b4d1.7494578715215330832077.jpg"><br>
-<br>GIT/GitHub - Basico
+<br>GIT/GitHub - Intermediário
 <img align="left" width="40" height="40" src="https://www.freepnglogos.com/uploads/512x512-logo/512x512-transparent-logo-github-logo-24.png"><br>
 <br>Node.js - Basico
 <img align="left" width="40" height="40" src="https://user-images.githubusercontent.com/37783914/134197235-9e1f72e8-728d-4a01-ad0b-daa2926dc06d.png"><br>
-<br>Lógica de Programação - Iniciante
+<br>Lógica de Programação - Básico
 <img align="left" width="60" height="40" src="https://img2.gratispng.com/20180529/hwx/kisspng-software-framework-network-performance-software-de-mechanical-gear-5b0d6932cb66e4.2933447315276055548331.jpg"><br>
 <br>Banco de dados - Básico
 <img align="left" width="40" height="40" src="https://img2.gratispng.com/20190212/hwz/kisspng-cloud-database-database-server-flat-file-oracle-da-data-base-server-svg-png-icon-free-download-5229-5c626aab2098a8.3594180915499537071335.jpg"><br>
